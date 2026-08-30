@@ -6,4 +6,4 @@
 
 Успехов!
 
-[Таблица с результатами](https://docs.google.com/spreadsheets/d/1evWp-Hhzs36jRN7MhpjcBVy7LAIIiQPZFxvZDyPBJHM/edit#gid=0)
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/1bv_nskereCYU40CmgzgpimAfVo_HmO3lg2HXCeZ7yb8/edit?gid=0#gid=0)
